@@ -1,0 +1,17 @@
+[
+  {
+    "username": "youtubeeugene",
+    "password": "a",
+    "isAdmin": true
+  },
+  {
+    "username": "Jatelo",
+    "password": "Abongo001.",
+    "isAdmin": false
+  },
+  {
+    "username": "dan",
+    "password": "dan",
+    "isAdmin": true
+  }
+]

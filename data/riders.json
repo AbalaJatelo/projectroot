@@ -1,0 +1,52 @@
+[
+  {
+    "id": "E75F45BF",
+    "name": "Rider 1",
+    "qrCodeData": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=E75F45BF"
+  },
+  {
+    "id": "724D4966",
+    "name": "Rider 2",
+    "qrCodeData": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=724D4966"
+  },
+  {
+    "id": "3EB10A26",
+    "name": "Rider 3",
+    "qrCodeData": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=3EB10A26"
+  },
+  {
+    "id": "C35EB0BB",
+    "name": "Rider 4",
+    "qrCodeData": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=C35EB0BB"
+  },
+  {
+    "id": "9287203B",
+    "name": "Rider 5",
+    "qrCodeData": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=9287203B"
+  },
+  {
+    "id": "6FE14525",
+    "name": "Rider 6",
+    "qrCodeData": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=6FE14525"
+  },
+  {
+    "id": "154B8F02",
+    "name": "Rider 7",
+    "qrCodeData": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=154B8F02"
+  },
+  {
+    "id": "0F165081",
+    "name": "Rider 8",
+    "qrCodeData": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=0F165081"
+  },
+  {
+    "id": "90C5FC2E",
+    "name": "Rider 9",
+    "qrCodeData": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=90C5FC2E"
+  },
+  {
+    "id": "10539D1B",
+    "name": "Rider 10",
+    "qrCodeData": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=10539D1B"
+  }
+]
